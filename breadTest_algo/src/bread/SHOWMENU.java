@@ -16,14 +16,3 @@ public class SHOWMENU {
 		System.out.println("\n<<<옵션을 선택해 주세요>>>\n");
 		}
 	}
-
-//public static void ok() { //수량 확인
-//String[] breadlist = {"sand", "cake", "sobo", "dan", "pizza"};
-//breadlist[0] = "샌드위치";
-//breadlist[1] = "딸기케이크";
-//breadlist[2] = "튀김소보로";
-//breadlist[3] = "단팥빵";
-//breadlist[4] = "피자빵";
-//System.out.print("주문 하신" + "빵 이름" + "수량이" + "n개 맞습니까?");
-//
-//}
